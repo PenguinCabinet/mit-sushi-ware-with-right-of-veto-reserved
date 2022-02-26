@@ -19,6 +19,12 @@ MIT LICENSE と SUSHI-WARE LICENSE を合体させ、作者(著作権者)の著�
 - 使用・コピー・改変・再配布などを、無償かつ制限なしで扱うことができる権利
 - ソフトウェアの作者(著作権者)に、寿司 🍣 を奢ることができる権利
 
+## 使い方
+
+Copyright 部分の修正をして、ファイルを置いたりコメントとして記述したりしてください
+
+マークダウン版とプレーンテキスト版、それぞれ日本語および英語で提供しています。お好きなものをどうぞ
+
 ## バッジ
 
 `![LICENSE: MIT SUSHI-WARE🍣](https://raw.githubusercontent.com/watasuke102/mit-sushi-ware/master/MIT-SUSHI-WARE.svg)`  
