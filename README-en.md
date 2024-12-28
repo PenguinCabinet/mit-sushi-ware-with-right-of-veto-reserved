@@ -8,4 +8,6 @@ The following text has been added to [THE MIT SUSHI-WARE LICENSE](https://github
 ```
 For an explanation of the other parts, please see [THE MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware).
 
-## Thanks * [THE MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware) * [THE SUSHI-WARE LICENSE](https://github.com/makenowjust/sushi-ware)
+## Thanks 
+* [THE MIT SUSHI-WARE LICENSE](https://github.com/watasuke102/mit-sushi-ware)
+* * [THE SUSHI-WARE LICENSE](https://github.com/makenowjust/sushi-ware)
